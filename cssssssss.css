@@ -1831,14 +1831,14 @@
     transform: none;
   }
   .container__037ed::after {
-    content: "Stay comfy";
+    content: "Открой Сервер";
     position: fixed;
     top: 220px;
     bottom: 85px;
     right: 60px;
     z-index: -2;
     width: 320px;
-    background-color: var(--background-primary);
+    background-color: var(--background-blue);
     text-align: center;
     display: flex;
     align-items: center;
