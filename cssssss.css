@@ -1806,15 +1806,6 @@
   z-index: 1;
   pointer-events: none;
 }
-:root .bg__12180::before {
-  z-index: 2;
-  bottom: 30%;
-  right: 430px;
-  width: 30px;
-  height: 40px;
-  background: url("https://i.imgur.com/RgnE4Fs.png") no-repeat;
-  background-size: 100%;
-}
 @media (max-width: 1350px) {
   :root .bg__12180::before {
     display: none;
