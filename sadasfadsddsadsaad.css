@@ -1,5 +1,5 @@
    :root{
-     --background: url('');
+     --background-color: black;
      --activetext-colour: white;
      --primary1-colour: red;
      --primary2-colour: rgba(255,0,0,0.5);
