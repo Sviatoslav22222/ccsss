@@ -1,0 +1,4 @@
+/*Dark Mode*/
+@import url("https://raw.githack.com/Sviatoslav22222/ccsss/main/chilax%20test");
+/*Light Mode*/
+@import url("https://warrayquipsome.github.io/Chillax/light.mode.css");
